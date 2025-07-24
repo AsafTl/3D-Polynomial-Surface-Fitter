@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+scikit-image
+matplotlib
+tifffile
+scipy
