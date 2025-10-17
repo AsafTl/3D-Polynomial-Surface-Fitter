@@ -1,11 +1,11 @@
 # 3D Polynomial Surface Fitter for Object Centroids
-Used in Ludin et al. [CRATER tumor niches facilitate CD8+ T cell engagement and correspond with immunotherapy success] Cell 2025 to calculate attrition of tumor surface in OT model
+Used in Ludin et al. [CRATER tumor niches facilitate CD8+ T cell engagement and correspond with immunotherapy success] to calculate attrition of tumor surface in OT model
 This project provides a suite of Python scripts to fit a 3D polynomial surface to a point cloud derived from object centroids in a 3D labeled image. It includes functionality for data clustering, outlier removal, model evaluation, and visualization.
 
 The primary goal is to generate a smooth mathematical representation of a biological surface (like a tumor boundary) from microscopy data.
 
-If you use this package, please cite:
-Ludin et al., 2025, Cell 188, 1–17
+If you use this package, please cite:  
+Ludin et al., 2025, Cell 188, 1–17  
 https://doi.org/10.1016/j.cell.2025.09.021
 
 ## Features
