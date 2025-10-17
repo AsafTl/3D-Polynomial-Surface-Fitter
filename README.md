@@ -5,7 +5,8 @@ This project provides a suite of Python scripts to fit a 3D polynomial surface t
 The primary goal is to generate a smooth mathematical representation of a biological surface (like a tumor boundary) from microscopy data.
 
 If you use this package, please cite:
-Ludin et al. Cell 2025
+Ludin et al., 2025, Cell 188, 1–17
+https://doi.org/10.1016/j.cell.2025.09.021
 
 ## Features
 
